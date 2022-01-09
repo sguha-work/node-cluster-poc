@@ -1,0 +1,7 @@
+[user]
+    name = Sahasrangshu Guha
+    email = sguha1988.life@gmail.com
+
+[includeIf "gitdir:~/bidwiser/"]
+
+    path = ~/bidwiser/.gitconfig
